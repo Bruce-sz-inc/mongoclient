@@ -23,7 +23,7 @@
     "ladda": "^1.0.0",
     "meteor-node-stubs": "^0.2.3",
     "mongodb": "2.2.16",
-    "mongodb-backup": "~1.6.5",
+    "mongodb-backup": "~1.6.9",
     "mongodb-restore": "~1.6.1",
     "spin.js": "^2.3.2",
     "toastr": "^2.1.2",
